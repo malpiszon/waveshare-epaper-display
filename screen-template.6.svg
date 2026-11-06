@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="480"
+   width="800"
+   version="1.1"
+   id="svg3095"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="screen-template.1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <rect
+       x="692.5"
+       y="284.5"
+       width="464.5"
+       height="143.5"
+       id="rect1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.91875"
+     inkscape:cx="400"
+     inkscape:cy="239.73941"
+     inkscape:window-width="2558"
+     inkscape:window-height="1360"
+     inkscape:window-x="1273"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="rainsnowicon" />
+  <rect
+     width="800"
+     height="480"
+     id="rect3855"
+     fill="#ffffff"
+     inkscape:label="rect3855"
+     x="0"
+     y="0"
+     style="display:inline" />
+  <text
+     id="currtempins"
+     x="155"
+     y="45"
+     font-size="38px"
+     style="font-size:38px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline"
+     inkscape:label="currtempins">CURR_INS</text>
+  <g
+     id="inside-group"
+     transform="translate(60, 68)"
+     inkscape:label="inside-group">
+    <g
+       transform="scale(1.1) translate(0, -18)"
+       id="co2"
+       inkscape:label="co2"
+       style="display:inline">
+      <use
+         id="co2-svg"
+         href="icons2/co2_icon.svg"
+         style="display:inline"
+         inkscape:label="co2-svg" />
+    </g>
+    <text
+       id="co2-text"
+       x="30"
+       y="0"
+       font-size="18px"
+       style="font-size:18px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="co2-text">CO2</text>
+    <g
+       transform="scale(0.15) translate(800, -110)"
+       id="insidehumidityicon"
+       inkscape:label="insidehumidityicon"
+       style="display:inline">
+      <use
+         id="insidehumidityicon-svg"
+         href="icons2/humidity_icon.svg"
+         style="display:inline"
+         inkscape:label="insidehumidityicon-svg" />
+    </g>
+    <text
+       id="insidehumidityicon-text"
+       x="145"
+       y="0"
+       font-size="18px"
+       style="font-size:18px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="insidehumidityicon-text">INSIDE_HUMIDITY</text>
+  </g>
+  <text
+     id="currtempout"
+     x="155"
+     y="105"
+     font-size="38px"
+     style="font-size:38px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline"
+     inkscape:label="currtempout">CURR_OUT</text>
+  <g
+     id="minmaxtemp-group"
+     transform="translate(20, 130)"
+     inkscape:label="minmaxtemp-group">
+    <g
+       transform="scale(1) translate(0, -20)"
+       id="feelslikeicon"
+       inkscape:label="feelslikeicon"
+       style="display:inline">
+      <use
+         id="feelslikeicon-svg"
+         href="icons2/feels_like_icon.svg"
+         style="display:inline"
+         inkscape:label="feelslikeicon-svg" />
+    </g>
+    <text
+       id="feelslike-text"
+       x="30"
+       y="0"
+       font-size="18px"
+       style="font-size:18px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="feelslike-text">FEELS_LIKE_TEXT</text>
+    <g
+       transform="scale(0.04) translate(2300, -450)"
+       id="mintempicon"
+       inkscape:label="mintempicon"
+       style="display:inline">
+      <use
+         id="mintempicon-svg"
+         href="icons2/min_temp_icon.svg"
+         style="display:inline"
+         inkscape:label="mintempicon-svg" />
+    </g>
+    <text
+       id="mintempicon-text"
+       x="115"
+       y="0"
+       font-size="18px"
+       style="font-size:18px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="mintempicon-text">MIN_TEMP_TEXT</text>
+    <g
+       transform="scale(0.04) translate(4400, -450)"
+       id="maxtempicon"
+       inkscape:label="maxtempicon"
+       style="display:inline">
+      <use
+         id="maxtempicon-svg"
+         href="icons2/max_temp_icon.svg"
+         style="display:inline"
+         inkscape:label="maxtempicon-svg" />
+    </g>
+    <text
+       id="maxtempicon-text"
+       x="200"
+       y="0"
+       font-size="18px"
+       style="font-size:18px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="maxtempicon-text">MAX_TEMP_TEXT</text>
+  </g>
+  <g
+     id="suntime-group"
+     transform="translate(5, 160)"
+     inkscape:label="suntime-group">
+    <g
+       transform="scale(0.08) translate(0, -300)"
+       id="sunriseicon"
+       inkscape:label="sunriseicon"
+       style="display:inline">
+      <use
+         id="sunriseicon-svg"
+         href="icons2/sunrise_icon.svg"
+         style="display:inline"
+         inkscape:label="sunriseicon-svg" />
+    </g>
+    <text
+       id="sunrise-text"
+       x="35"
+       y="0"
+       font-size="22px"
+       style="font-size:22px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="sunrise-text">SUNRISE_TEXT</text>
+    <g
+       transform="scale(0.08) translate(1250, -300)"
+       id="sunseticon"
+       inkscape:label="sunseticon"
+       style="display:inline">
+      <use
+         id="sunseticon-svg"
+         href="icons2/sunset_icon.svg"
+         style="display:inline"
+         inkscape:label="sunseticon-svg" />
+    </g>
+    <text
+       id="sunseticon-text"
+       x="135"
+       y="0"
+       font-size="22px"
+       style="font-size:22px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="sunseticon-text">SUNSET_TEXT</text>
+    <g
+       transform="scale(0.08) translate(2500, -300)"
+       id="sunicon"
+       inkscape:label="sunicon"
+       style="display:inline">
+      <use
+         id="sunicon-svg"
+         href="icons2/sun_icon.svg"
+         style="display:inline"
+         inkscape:label="sunicon-svg" />
+    </g>
+    <text
+       id="sunicon-text"
+       x="235"
+       y="0"
+       font-size="22px"
+       style="font-size:22px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="sunicon-text">SUNTIME_TEXT</text>
+  </g>
+  <g
+     id="precip-humidity-group"
+     transform="translate(5, 185)"
+     inkscape:label="precip-humidity-group">
+    <g
+       transform="scale(0.2) translate(0, -110)"
+       id="rainsnowicon"
+       inkscape:label="rainsnowicon"
+       style="display:inline">
+      <use
+         id="rainsnow-svg"
+         href="icons2/RAIN_SNOW_ICON_icon.svg"
+         style="display:inline"
+         inkscape:label="rainsnow-svg" />
+    </g>
+    <text
+       id="rainsnowicon-text"
+       x="30"
+       y="0"
+       font-size="22px"
+       style="font-size:22px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="rainsnowicon-text">RAIN_SNOW_TEXT</text>
+    <g
+       transform="scale(0.2) translate(650, -110)"
+       id="precipicon"
+       inkscape:label="precipicon"
+       style="display:inline">
+      <use
+         id="precipicon-svg"
+         href="icons2/rain_percent_icon.svg"
+         style="display:inline"
+         inkscape:label="precipicon-svg" />
+    </g>
+    <text
+       id="precip-text"
+       x="160"
+       y="0"
+       font-size="22px"
+       style="font-size:22px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="precip-text">PRECIPITATION</text>
+    <g
+       transform="scale(0.2) translate(1060, -110)"
+       id="humidityicon"
+       inkscape:label="humidityicon"
+       style="display:inline">
+      <use
+         id="humidityicon-svg"
+         href="icons2/humidity_icon.svg"
+         style="display:inline"
+         inkscape:label="humidityicon-svg" />
+    </g>
+    <text
+       id="humidity-text"
+       x="240"
+       y="0"
+       font-size="22px"
+       style="font-size:22px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="humidity-text">HUMIDITY</text>
+  </g>
+  <g
+     id="wind-group"
+     transform="translate(45, 210)"
+     inkscape:label="wind-group">
+    <g
+       transform="scale(0.2) translate(0, -110)"
+       id="windicon"
+       inkscape:label="windicon"
+       style="display:inline">
+      <use
+         id="windicon-svg"
+         href="icons2/wind_icon.svg"
+         style="display:inline"
+         inkscape:label="windicon-svg" />
+    </g>
+    <text
+       id="wind-text"
+       x="30"
+       y="0"
+       font-size="22px"
+       style="font-size:22px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="wind-text">WIND_TEXT</text>
+    <g
+       transform="translate(160, -20) scale(0.04)"
+       id="windicon-direction">
+      <use
+         href="WIND_DIRECTION_ICON"
+         id="windicon-direction-icon" />
+    </g>
+  </g>
+  <g
+     transform="scale(1.1) translate(75 200)"
+     id="currentweather"
+     inkscape:label="currentweather"
+     style="display:inline">
+    <use
+       id="currentweathericon"
+       href="icons/ICON_ONE.svg"
+       style="display:inline"
+       inkscape:label="currentweathericon" />
+  </g>
+  <text
+     id="temphighlow"
+     x="155"
+     y="370"
+     font-size="38px"
+     style="font-size:38px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">HIGH_ONE|LOW_ONE</text>
+  <text
+     id="weatherdesc1"
+     x="150"
+     y="400"
+     font-size="26px"
+     style="font-size:26px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">WEATHER_DESC_1</text>
+  <text
+     id="weaetherdesc2"
+     x="150"
+     y="425"
+     font-size="26px"
+     style="font-size:26px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">WEATHER_DESC_2</text>
+  <text
+     id="texttime"
+     x="10"
+     y="460"
+     font-size="15px"
+     style="font-weight:bold;line-height:0%;font-family:sans-serif"
+     inkscape:label="texttime">TIME_NOW</text>
+  <path
+     d="M 301.08466,330.67704 V 464.8254 h 3 V 13.512 h -3 z"
+     id="divider"
+     inkscape:connector-curvature="0"
+     style="display:inline;stroke-width:1.38434" />
+  <text
+     id="textday"
+     x="550"
+     y="45"
+     style="font-weight:200;font-size:47px;line-height:0%;font-family:sans-serif;text-anchor:middle">DAY_NAME</text>
+  <text
+     id="hplus1name"
+     x="390"
+     y="90"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline;font-weight:bold">HPLUS1_NAME</text>
+  <text
+     id="hplus2name"
+     x="540"
+     y="90"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline;font-weight:bold">HPLUS2_NAME</text>
+  <text
+     id="hplus3name"
+     x="690"
+     y="90"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline;font-weight:bold">HPLUS3_NAME</text>
+  <g
+     transform="scale(0.7) translate(500 155)"
+     id="hplus1weather"
+     inkscape:label="hplus1weather"
+     style="display:inline">
+    <use
+       id="hplus1weathericon"
+       href="icons/ICON_HPLUS1.svg"
+       style="display:inline"
+       inkscape:label="hplus1weathericon" />
+  </g>
+  <g
+     transform="scale(0.7) translate(720 155)"
+     id="hplus2weather"
+     inkscape:label="hplus1weather"
+     style="display:inline">
+    <use
+       id="hplus2weathericon"
+       href="icons/ICON_HPLUS2.svg"
+       style="display:inline"
+       inkscape:label="hplus2weathericon" />
+  </g>
+  <g
+     transform="scale(0.7) translate(940 155)"
+     id="hplus3weather"
+     inkscape:label="hplus3weather"
+     style="display:inline">
+    <use
+       id="hplus3weathericon"
+       href="icons/ICON_HPLUS3.svg"
+       style="display:inline"
+       inkscape:label="hplus3weathericon" />
+  </g>
+  <text
+     id="hplus1temp"
+     x="385"
+     y="205"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">HPLUS1_TEMP</text>
+  <text
+     id="hplus2temp"
+     x="540"
+     y="205"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">HPLUS2_TEMP</text>
+  <text
+     id="hplus3temp"
+     x="690"
+     y="205"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">HPLUS3_TEMP</text>
+  <g
+     id="hplus1temp-group"
+     transform="translate(315, 230)"
+     inkscape:label="hplus1temp-group">
+    <g
+       transform="scale(0.16) translate(0, -100)"
+       id="hplus1precipicon"
+       inkscape:label="hplus1precipicon"
+       style="display:inline">
+      <use
+         id="hplus1precipicon-svg"
+         href="icons2/rain_percent_icon.svg"
+         style="display:inline"
+         inkscape:label="hplus1precipicon-svg" />
+    </g>
+    <text
+       id="hplus1precip-text"
+       x="25"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="hplus1precip-text">HPLUS1_PRECIP</text>
+    <g
+       transform="scale(0.9) translate(75, -20)"
+       id="hplus1feelslikeicon"
+       inkscape:label="hplus1feelslikeicon"
+       style="display:inline">
+      <use
+         id="hplus1feelslikeicon-svg"
+         href="icons2/feels_like_icon.svg"
+         style="display:inline"
+         inkscape:label="hplus1feelslikeicon-svg" />
+    </g>
+    <text
+       id="hplus1feelslike-text"
+       x="90"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="hplus1feelslike-text">HPLUS1_RFT</text>
+  </g>
+  <g
+     id="hplus2temp-group"
+     transform="translate(475, 230)"
+     inkscape:label="hplus2temp-group">
+    <g
+       transform="scale(0.16) translate(0, -100)"
+       id="hplus2precipicon"
+       inkscape:label="hplus2precipicon"
+       style="display:inline">
+      <use
+         id="hplus2precipicon-svg"
+         href="icons2/rain_percent_icon.svg"
+         style="display:inline"
+         inkscape:label="hplus2precipicon-svg" />
+    </g>
+    <text
+       id="hplus2precip-text"
+       x="25"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="hplus2precip-text">HPLUS2_PRECIP</text>
+    <g
+       transform="scale(0.9) translate(75, -20)"
+       id="hplus2feelslikeicon"
+       inkscape:label="hplus2feelslikeicon"
+       style="display:inline">
+      <use
+         id="hplus2feelslikeicon-svg"
+         href="icons2/feels_like_icon.svg"
+         style="display:inline"
+         inkscape:label="hplus2feelslikeicon-svg" />
+    </g>
+    <text
+       id="hplus2feelslike-text"
+       x="90"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="hplus2feelslike-text">HPLUS2_RFT</text>
+  </g>
+  <g
+     id="hplus3temp-group"
+     transform="translate(630, 230)"
+     inkscape:label="hplus3temp-group">
+    <g
+       transform="scale(0.16) translate(0, -100)"
+       id="hplus3precipicon"
+       inkscape:label="hplus3precipicon"
+       style="display:inline">
+      <use
+         id="hplus3precipicon-svg"
+         href="icons2/rain_percent_icon.svg"
+         style="display:inline"
+         inkscape:label="hplus3precipicon-svg" />
+    </g>
+    <text
+       id="hplus3precip-text"
+       x="25"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="hplus3precip-text">HPLUS3_PRECIP</text>
+    <g
+       transform="scale(0.9) translate(75, -20)"
+       id="hplus3feelslikeicon"
+       inkscape:label="hplus3feelslikeicon"
+       style="display:inline">
+      <use
+         id="hplus3feelslikeicon-svg"
+         href="icons2/feels_like_icon.svg"
+         style="display:inline"
+         inkscape:label="hplus3feelslikeicon-svg" />
+    </g>
+    <text
+       id="hplus3feelslike-text"
+       x="90"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="hplus3feelslike-text">HPLUS3_RFT</text>
+  </g>
+  <text
+     id="dplus1name"
+     x="450"
+     y="265"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline;font-weight:bold">DPLUS1_NAME</text>
+  <text
+     id="dplus2name"
+     x="670"
+     y="265"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline;font-weight:bold">DPLUS2_NAME</text>
+  <g
+     transform="scale(0.7) translate(580 390)"
+     id="tomorrowweather"
+     inkscape:label="tomorrowweather"
+     style="display:inline">
+    <use
+       id="tomorrowweathericon"
+       href="icons/ICON_DPLUS1.svg"
+       style="display:inline"
+       inkscape:label="tomorrowweathericon" />
+  </g>
+  <g
+     transform="scale(0.7) translate(900 390)"
+     id="dayaftertomorrowweather"
+     inkscape:label="dayaftertomorrowweather"
+     style="display:inline">
+    <use
+       id="dayaftertomorrowweathericon"
+       href="icons/ICON_DPLUS2.svg"
+       style="display:inline"
+       inkscape:label="dayaftertomorrowweathericon" />
+  </g>
+  <text
+     id="temphighlow-dplus1"
+     x="450"
+     y="370"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">HIGH_DPLUS1|LOW_DPLUS1</text>
+  <text
+     id="temphighlow-dplus2"
+     x="680"
+     y="370"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">HIGH_DPLUS2|LOW_DPLUS2</text>
+  <g
+     id="dplus1precip-group"
+     transform="translate(380, 395)"
+     inkscape:label="dplus1precip-group">
+    <g
+       transform="scale(0.16) translate(0, -100)"
+       id="dplus1precipicon"
+       inkscape:label="dplus1precipicon"
+       style="display:inline">
+      <use
+         id="dplus1precipicon-svg"
+         href="icons2/rain_percent_icon.svg"
+         style="display:inline"
+         inkscape:label="dplus1precipicon-svg" />
+    </g>
+    <text
+       id="dplus1precip-text"
+       x="25"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="dplus1precip-text">PRECIP_DPLUS1_TEXT</text>
+    <g
+       transform="scale(0.05) translate(1400, -300)"
+       id="sunicon"
+       inkscape:label="sunicon"
+       style="display:inline">
+      <use
+         id="sunicon-svg"
+         href="icons2/sun_icon.svg"
+         style="display:inline"
+         inkscape:label="sunicon-svg" />
+    </g>
+    <text
+       id="sunicon-text"
+       x="93"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="sunicon-text">SUNTIME_DPLUS1_TEXT</text>
+  </g>
+  <g
+     id="dplus2precip-group"
+     transform="translate(610, 395)"
+     inkscape:label="dplus2precip-group">
+    <g
+       transform="scale(0.16) translate(0, -100)"
+       id="dplus2precipicon"
+       inkscape:label="dplus2precipicon"
+       style="display:inline">
+      <use
+         id="dplus2precipicon-svg"
+         href="icons2/rain_percent_icon.svg"
+         style="display:inline"
+         inkscape:label="dplus2precipicon-svg" />
+    </g>
+    <text
+       id="dplus2precip-text"
+       x="25"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="dplus2precip-text">PRECIP_DPLUS2_TEXT</text>
+    <g
+       transform="scale(0.05) translate(1400, -300)"
+       id="sunicon"
+       inkscape:label="sunicon"
+       style="display:inline">
+      <use
+         id="sunicon-svg"
+         href="icons2/sun_icon.svg"
+         style="display:inline"
+         inkscape:label="sunicon-svg" />
+    </g>
+    <text
+       id="sunicon-text"
+       x="93"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="sunicon-text">SUNTIME_DPLUS2_TEXT</text>
+  </g>
+  <g
+     id="dplus1wind-group"
+     transform="translate(390, 415)"
+     inkscape:label="dplus1wind-group">
+    <g
+       transform="scale(0.14) translate(0, -110)"
+       id="dplus1windicon"
+       inkscape:label="dplus1windicon"
+       style="display:inline">
+      <use
+         id="dplus1windicon-svg"
+         href="icons2/wind_icon.svg"
+         style="display:inline"
+         inkscape:label="dplus1windicon-svg" />
+    </g>
+    <text
+       id="dplus1wind-text"
+       x="25"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="dplus1wind-text">WIND_DPLUS1_TEXT</text>
+  </g>
+  <g
+     id="dplus2wind-group"
+     transform="translate(620, 415)"
+     inkscape:label="dplus2wind-group">
+    <g
+       transform="scale(0.14) translate(0, -110)"
+       id="dplus2windicon"
+       inkscape:label="dplus2windicon"
+       style="display:inline">
+      <use
+         id="dplus2windicon-svg"
+         href="icons2/wind_icon.svg"
+         style="display:inline"
+         inkscape:label="dplus2windicon-svg" />
+    </g>
+    <text
+       id="dplus2wind-text"
+       x="25"
+       y="0"
+       font-size="16px"
+       style="font-size:16px;line-height:0%;font-family:sans-serif;text-anchor:left;display:inline"
+       inkscape:label="dplus2wind-text">WIND_DPLUS2_TEXT</text>
+  </g>
+  <text
+     id="weatherdesc1-dplus1"
+     x="450"
+     y="440"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">WEATHER_DESC_DPLUS1_1</text>
+  <text
+     id="weatherdesc1-dplus2"
+     x="680"
+     y="440"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">WEATHER_DESC_DPLUS2_1</text>
+  <text
+     id="weatherdesc2-dplus1"
+     x="450"
+     y="460"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">WEATHER_DESC_DPLUS1_2</text>
+  <text
+     id="weaetherdesc2-dplus2"
+     x="680"
+     y="460"
+     font-size="21px"
+     style="font-size:21px;line-height:0%;font-family:sans-serif;text-anchor:middle;display:inline">WEATHER_DESC_DPLUS2_2</text>
+</svg>
