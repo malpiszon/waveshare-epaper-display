@@ -28,7 +28,8 @@ else
     .venv/bin/python3 screen-weather-get.py
 
     log "Export to PNG"
-    .venv/bin/cairosvg -o screen-output.png -f png --dpi 300 --output-width $WAVESHARE_WIDTH --output-height $WAVESHARE_HEIGHT screen-output-weather.svg
+    # -u: CairoSVG >= 2.6 refuses to load the icon files without it
+    .venv/bin/cairosvg -u -o screen-output.png -f png --dpi 300 --output-width $WAVESHARE_WIDTH --output-height $WAVESHARE_HEIGHT screen-output-weather.svg
 
 
     .venv/bin/python3 display.py screen-output.png
