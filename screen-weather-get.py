@@ -210,26 +210,26 @@ def main():
 
     if not daily_weather:
         logging.error("Unable to fetch daily weather payload. SVG will not be updated.")
-        return
+        sys.exit(1)
 
     hourly_weather = get_hourly_weather(location_lat, location_long, units)
 
     if not hourly_weather:
         logging.error("Unable to fetch hourly weather payload. SVG will not be updated.")
-        return
+        sys.exit(1)
 
     current_weather = get_current_weather(location_lat, location_long, units)
 
     if not current_weather:
         logging.error("Unable to fetch current conditions payload. SVG will not be updated.")
-        return
+        sys.exit(1)
 
     logging.info("Getting weather from Netatmo")
     netatmo_data = get_netatmo_weather()
 
     if not netatmo_data:
         logging.error("Unable to fetch Netatmo payload. SVG will not be updated.")
-        return
+        sys.exit(1)
 
     weather_0_desc = format_weather_description(daily_weather[0]["description"])
     weather_1_desc = format_weather_description(daily_weather[1]["description"])
