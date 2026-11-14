@@ -25,8 +25,10 @@ def get_temp():
     data["indoor_humidity"] = netatmo_data[indoor]['Humidity']
     data["indoor_co2"] = netatmo_data[indoor]['CO2']
     data["outdoor_temp"] = netatmo_data[outdoor]['Temperature']
-    data["outdoor_temp_min"] = netatmo_data[outdoor]['min_temp']
-    data["outdoor_temp_max"] = netatmo_data[outdoor]['max_temp']
+    # Right after midnight the module has no daily min/max until its first
+    # reading of the new day; the current temperature is both so far.
+    data["outdoor_temp_min"] = netatmo_data[outdoor].get('min_temp', data["outdoor_temp"])
+    data["outdoor_temp_max"] = netatmo_data[outdoor].get('max_temp', data["outdoor_temp"])
     data["outdoor_humidity"] = netatmo_data[outdoor]['Humidity']
     data["pressure"] = netatmo_data[base_station]['Pressure']
 
